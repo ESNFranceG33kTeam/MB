@@ -1,0 +1,16 @@
+10//Président//Local.president
+20//Vice-président//Local.vicePresident
+30//Trésorier//Local.treasurer
+40//Secrétaire//Local.secretary
+50//Représentant local//Local.localRepresentative
+60//Responsable communication//Local.pr
+70//Responsable partenariats
+80//Webmaster//Local.webmaster
+110//Coordinateur SocialErasmus//Local.socialerasmus
+120//Coordinateur ExchangeAbility//Local.exchangeability
+130//Ambassadeur de la mobilité
+210//Responsable activités
+220//Responsable culture
+230//Responsable soirées
+240//Responsable sports
+250//Responsable voyages
