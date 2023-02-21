@@ -38,7 +38,7 @@ if (isset($user)){
 
 	
 	//WPA Access
-	if(in_array("National.webmaster", $infosGalaxy['roles']) && $infosGalaxy['first']=="Maxime" && $infosGalaxy['last']=="Scher"){
+	if in_array("National.webmaster", $infosGalaxy['roles']){
 		
 
 		
